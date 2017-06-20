@@ -1,6 +1,6 @@
 # Mozilla fellowship application
 
-This is my Mozilla fellowship (2017) application. If granted, I'll be updating
+This is my Mozilla fellowship (2017) application. If granted, I'll be updating. Please view my interview preparation [here](./interview-prep-1.md).
 
 ## Application
 
