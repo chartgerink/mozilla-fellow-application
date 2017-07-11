@@ -6,6 +6,12 @@ Made it to the second round! :confetti_ball:
 
 [so see prep for interview 1 as well](./interview-prep-1.md)
 
+Research wise, the [Metaresearch group](http://metaresearch.nl) will provide a fruitful group for discussions wrt research projects undertaken in the Mozilla Fellowship and fine-tuning from a meta-point of view the materials produced during the fellowship. All the research that tries to improve science fits right the group's work, albeit the group is less focused on implementing change. However, in preparing for this fellowship application, I talked to some group members and they're enthousiastic about practical implementations and so are happy to join in thinking and potentially doing applied research on this. 
+
+The remaining 1 day p/week that I'll work on my PhD is fully supported by the uni (already checked); as such I don't see any problems with support regarding an office, institutional support etc. Given the reduced labor costs for the university, I will try to negotiate for budget to spend within the mozilla fellowship (if granted). As such, I have full availability of institional resources and supervision to take on research projects. 
+
+My PhD project (which has pretty much become a PhD on improving science as a system) is likely to be have passed the completion stage when I would start the fellowship, making all other projects additions to that PhD project. As such, I will be at liberty to start projects as I see fit and intertwine the Mozilla Fellowship with PhD project, allowing me to use the resources of the institution towards the goals of both the Fellowship and PhD project.
+
 >What are you most looking for in terms of collaborators in the coming year (disciplinary focus, institutions, particular types of people -- scientists, developers, web activists etcet)?
 
 From interview 1 prep:
